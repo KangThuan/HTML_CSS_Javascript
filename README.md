@@ -1,2 +1,2 @@
-# HTML_CSS_Javascript
-This is my folder for studying and coding web: HTML, CSS and Javascript
+# Log_In_Template
+This is my template for logging in using HTML, CSS and JVS
